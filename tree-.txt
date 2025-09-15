@@ -1,0 +1,201 @@
+C:\WSeminar
+├── .git
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── refs
+│   │   │   ├── heads
+│   │   │   │   └── main
+│   │   │   └── remotes
+│   │   │       └── origin
+│   │   │           └── main
+│   │   └── HEAD
+│   ├── objects
+│   │   ├── 00
+│   │   │   └── 44c755b26e9735d22a16b838e6b882f83544c7
+│   │   ├── 04
+│   │   │   └── 3336a4725cc68ba490cb8590ea114e641d6978
+│   │   ├── 05
+│   │   │   └── f5c221331e001dec95c0e068bf7ea18a9e5131
+│   │   ├── 06
+│   │   │   └── bbc63349b9b79b5815d4a182f0dce02320a20c
+│   │   ├── 0b
+│   │   │   └── 26a2721333f9f45e16c57c4e3bd3132ab5b208
+│   │   ├── 14
+│   │   │   └── 1a16381eb47433cbbdb5f83fc9bd15c393faeb
+│   │   ├── 23
+│   │   │   └── 1f3d541ec4098f8051d282f8d83ff562a5fd85
+│   │   ├── 26
+│   │   │   └── b1545546fd72ed0668ed539bc8aecb6ee4f112
+│   │   ├── 2a
+│   │   │   ├── 0cc4366ebf9dcdabf40f4df055ccf676bc3850
+│   │   │   └── c2659f96296eda75cd8734e1d5202b13b9256e
+│   │   ├── 2b
+│   │   │   └── 91bf76dde1398c3ab02479beab305c4c4084cf
+│   │   ├── 30
+│   │   │   └── 5177b03d1d03412134540f4242f90dca22bf28
+│   │   ├── 3d
+│   │   │   └── 65eb2b780a5849329a61ce0ff57a8c2bd6137c
+│   │   ├── 3f
+│   │   │   └── dfdb3ad9df2869dd30892510a5fef84a24c560
+│   │   ├── 40
+│   │   │   └── 0a916518e68a343dde88d7a09e7b1f0cf2e65d
+│   │   ├── 41
+│   │   │   └── ad23e2eaa429135b8d5e71c9dc1355409a7e82
+│   │   ├── 42
+│   │   │   └── 41d6288770be71addd4063ccc05a9d8e3003db
+│   │   ├── 54
+│   │   │   └── 1107f640c2b390b6b92e8d9826280a0db2849d
+│   │   ├── 55
+│   │   │   └── ff1d08fa143e71485bfb1e45d46e1371fd3b4a
+│   │   ├── 5c
+│   │   │   └── 743fb318c6f75b1f5a40cda8bdbf14c3365b6c
+│   │   ├── 62
+│   │   │   └── 397b0f2589024352ded2f8640d622d74b02b60
+│   │   ├── 67
+│   │   │   └── f81f3956cc8886c1ff64ba336f869e88474d60
+│   │   ├── 6d
+│   │   │   └── 32e3cccafa0c7c4f5140fea1845a515aced7ec
+│   │   ├── 6e
+│   │   │   └── 0fa77da3fec8ed0c6a298115e86f05472dcfa8
+│   │   ├── 70
+│   │   │   └── c55ace5195ab0e4eaf554bd0d53cb1b6d03141
+│   │   ├── 71
+│   │   │   └── 71432b7531d4998dce8e99faa8890f489d5ab1
+│   │   ├── 75
+│   │   │   └── 6a83de06919fc67736954511826f867c2acf20
+│   │   ├── 81
+│   │   │   └── 0c5f35a6e4b67e985966dbf36828b4826f0259
+│   │   ├── 83
+│   │   │   └── a1093454bffb08b3d21c87b35097c3a1305e6f
+│   │   ├── 8c
+│   │   │   └── 168a6af4e32011102a6d795cefda119ab80b3f
+│   │   ├── 8e
+│   │   │   └── 5de68c4ca188d414949d6bb7a988821d93506d
+│   │   ├── 99
+│   │   │   └── df63c3a68496b50994566c7ec033801bcba6b7
+│   │   ├── 9d
+│   │   │   └── 652018dd3227b326fea8ea4461b8c993d4b936
+│   │   ├── a2
+│   │   │   └── d1cec35fabfe03b158060867eef8bd87bb007d
+│   │   ├── a9
+│   │   │   └── 8174a8c9b4129928f36e6c84119f9e22150cb7
+│   │   ├── b6
+│   │   │   └── cc1545e2e743cac3a64c2a07238295dd7c24a3
+│   │   ├── ba
+│   │   │   └── 0ac5a7c5bbfa78a76f82b4b3acbbf392617251
+│   │   ├── bb
+│   │   │   └── 3556f4766c6969b0e33b9a6e2959660fec4950
+│   │   ├── be
+│   │   │   ├── 0375d36846fd2f8d05efb51a519be89291cbf5
+│   │   │   └── 1b09d35ccdf85167ffec7cdd7479b53ae9f6aa
+│   │   ├── bf
+│   │   │   └── 0a91e231f2d74e05fd71863e377344677ea58b
+│   │   ├── c6
+│   │   │   └── 9fbe29a752d4923738c658b00697443d3c84b3
+│   │   ├── c7
+│   │   │   └── fcec9ae92d07b2761e8685f6554f01aece0435
+│   │   ├── d1
+│   │   │   └── 5fbca7fb36e4d8a0595189220d0fa85301ce21
+│   │   ├── d8
+│   │   │   └── 1442541c4e1f8e761c3ce6e29c5967b8314e90
+│   │   ├── f1
+│   │   │   └── 2087d5517551d11025032c5b7c04591c6df26b
+│   │   ├── f8
+│   │   │   └── dcc34eb0240a12017f238fc43ba8357f21e967
+│   │   ├── f9
+│   │   │   └── 758a92672986757c29781aeabd6643791a3640
+│   │   ├── ff
+│   │   │   └── f5a4722d49f714e62258b883ac4fc75d833af2
+│   │   ├── info
+│   │   └── pack
+│   ├── refs
+│   │   ├── heads
+│   │   │   └── main
+│   │   ├── remotes
+│   │   │   └── origin
+│   │   │       └── main
+│   │   └── tags
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── index
+│   └── ORIG_HEAD
+├── analysis
+│   ├── video
+│   │   └── Total_precipitation_surface_ in a0d5b625feef1a2792cf56cd64e635df.mp4
+│   ├── Cumulative precipitation (mm) — Jun–Dec 1941.png
+│   ├── Frost days — Jun–Dec 1941.png
+│   ├── Maximum 5‑day precipitation (mm in month) — Jun–Dec 1941.png
+│   ├── Mean wind speed (m_s) — Jun–Dec 1941.png
+│   ├── Monthly Tmin_Tmax (°C) — Jun–Dec 1941.png
+│   ├── Standardized anomaly (z) — total precipitation (Jun–Dec 1941).png
+│   └── Total precipitation (mm) — Jun–Dec 1941 (Trans Central Europe).png
+├── installation
+│   ├── PanoplyWin-5.7.1
+│   │   └── PanoplyWin
+│   │       ├── jars
+│   │       │   ├── echosvg-svggen-1.2.3-with-deps.jar
+│   │       │   ├── fontbox-3.0.4.jar
+│   │       │   ├── jcodec-0.2.3.jar
+│   │       │   ├── jcodec-javase-0.2.3.jar
+│   │       │   ├── jhlabs-filters.jar
+│   │       │   ├── netcdfAll-5.9.1-SNAPSHOT-x.jar
+│   │       │   ├── Panoply.jar
+│   │       │   ├── pdfbox-3.0.4.jar
+│   │       │   ├── pdfbox-graphics2d-3.0.2.jar
+│   │       │   ├── pdfbox-io-3.0.4.jar
+│   │       │   ├── slf4j-api-2.0.17.jar
+│   │       │   └── slf4j-jdk14-2.0.17.jar
+│   │       ├── Panoply.exe
+│   │       ├── README.txt
+│   │       └── README_JAVA11.txt
+│   └── XyGrib_Win_Offline_Installer_v1.2.6.exe
+├── parts
+│   └── II Strategische Ausgangslage der Heeresgruppe Mitte bis Juni 1941.pdf
+├── raw
+│   ├── coperinicus
+│   │   ├── cdl
+│   │   │   └── Snowfall_surface_1_Hour_Accumulation.cdl
+│   │   ├── csv
+│   │   │   ├── Convective_precipitation_surface_3_Hour_Accumulation.csv
+│   │   │   ├── Convective_snowfall_surface_3_Hour_Accumulation.csv
+│   │   │   ├── eea_trans_central_europe_1941_JunDec_summary.csv
+│   │   │   ├── Snowfall_surface_1_Hour_Accumulation.csv
+│   │   │   └── Total_precipitation_surface_1_Hour_Accumulation.csv
+│   │   ├── grib
+│   │   │   ├── 63fd211998ab9e7b3a3030c4113da6c7.grib
+│   │   │   ├── 959db06d0cfa73a65e1cd224269e8448.grib
+│   │   │   └── a0d5b625feef1a2792cf56cd64e635df.grib
+│   │   ├── nc
+│   │   │   └── db855975ef02cade1094ebe0e93a7ee8.nc
+│   │   └── txt
+│   │       ├── Snowfall_surface_1_Hour_Accumulation.txt
+│   │       └── Total_precipitation_surface_1_Hour_Accumulation.txt
+│   ├── other
+│   └── ourworldindata
+├── scripts
+│   └── Exposé_Lennard_Gross.pdf
+├── sources
+│   ├── Kriegstagebuch des Oberkommandos der Wehrmacht. Bd. I (1965), OCR.pdf
+│   └── kriegstagebuchde01jacorich.pdf
+├── .gitignore
+├── tree-.txt
+└── tree_dump.py
