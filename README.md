@@ -204,7 +204,7 @@ Diese Arbeit leistet einen Beitrag zur:
 W-Seminar Geschichte 2024/2026  
 Otto-von-Taube-Gymnasium  
 
-**Betreuer:** Sebastian Weber
+**Seminarleiter:** Sebastian Weber
 
 ---
 
