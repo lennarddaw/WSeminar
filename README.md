@@ -417,7 +417,7 @@ GitHub: https://github.com/lennardgross/WSeminar
 - Kapitelerstellung abgeschlossen
 - Endfassung und Formatierung
 
-**Abgabe:** [Datum einfügen]  
+**Abgabe:** 26.11.2025
 **Letztes Update:** November 2025
 
 ---
